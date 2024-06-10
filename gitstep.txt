@@ -5,4 +5,6 @@ step4: in terminal write
         git init
 step5: configure remote repository with local repository 
         git remote add origin https://github.com/Panchashil/html-css-bootstrap-project.git
-step6: comit code                
+step6: comit code  
+step7: go to terminal and write 
+          git push -u origin master           
