@@ -1,0 +1,8 @@
+step1: create remote repository
+step2: create folder and open in vs code editor and write code in it.
+step3: open terminal with option GitBash 
+step4: in terminal write 
+        git init
+step5: configure remote repository with local repository 
+        git remote add origin https://github.com/Panchashil/html-css-bootstrap-project.git
+step6: comit code                
